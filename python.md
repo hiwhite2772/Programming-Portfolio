@@ -6,18 +6,18 @@
 
 ## 📌 Mục lục
 
-1. [Python là gì?](#1-python-là-gì)
-2. [Cài đặt & Tạo file đầu tiên](#2-cài-đặt--tạo-file-đầu-tiên)
-3. [Giai đoạn 1 — Cơ bản](#3-giai-đoạn-1--cơ-bản-beginner)
-4. [Giai đoạn 2 — Trung cấp](#4-giai-đoạn-2--trung-cấp-intermediate)
-5. [Giai đoạn 3 — Nâng cao](#5-giai-đoạn-3--nâng-cao-advanced)
-6. [Định hướng chuyên sâu](#6-định-hướng-chuyên-sâu)
-7. [Lỗi thường gặp khi mới học](#7-lỗi-thường-gặp-khi-mới-học)
-8. [Lộ trình đề xuất 8–12 tuần](#8-lộ-trình-đề-xuất-812-tuần)
-9. [Checklist tự đánh giá](#9-checklist-tự-đánh-giá)
-10. [Project gợi ý theo level](#10-project-gợi-ý-theo-level)
-11. [Công cụ & Tài nguyên](#11-công-cụ--tài-nguyên)
-12. [Tips học nhanh](#12-tips-học-nhanh)
+1. **[Python là gì?](#1-python-là-gì)**
+2. **[Cài đặt & Tạo file đầu tiên](#2-cài-đặt--tạo-file-đầu-tiên)**
+3. **[Giai đoạn 1 — Cơ bản](#3-giai-đoạn-1--cơ-bản-beginner)**
+4. **[Giai đoạn 2 — Trung cấp](#4-giai-đoạn-2--trung-cấp-intermediate)**
+5. **[Giai đoạn 3 — Nâng cao](#5-giai-đoạn-3--nâng-cao-advanced)**
+6. **[Định hướng chuyên sâu](#6-định-hướng-chuyên-sâu)**
+7. **[Lỗi thường gặp khi mới học](#7-lỗi-thường-gặp-khi-mới-học)**
+8. **[Lộ trình đề xuất 8–12 tuần](#8-lộ-trình-đề-xuất-812-tuần)**
+9. **[Checklist tự đánh giá](#9-checklist-tự-đánh-giá)**
+10. **[Project gợi ý theo level](#10-project-gợi-ý-theo-level)**
+11. **[Công cụ & Tài nguyên](#11-công-cụ--tài-nguyên)**
+12. **[Tips học nhanh](#12-tips-học-nhanh)**
 
 ---
 
